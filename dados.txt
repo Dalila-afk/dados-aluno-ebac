@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Dalila clean
+-Profissão: Barbeira
+-Cidade: Brasilia
+-O que faz nas horas vaga: lei, assito serie e filmes e principalmente durmo
+-Feedback sobre o curso Qualidade de Software: ainda esta bem no inicio, porem eu, que nao tinha nenhuma base na area de ti, tenho achado bastante desafiador, porem o professor esplica as materias de forma clara e os tutores ajudam bastante indicando com mais direcionamento meus equivocos. 
+-Feedback sobre a plataforma de estudo da EBAC: é uma plataforma bastante ampla, bem facil de usar e clara, tudo muito intuitivo.
 
 Obrigado!!!
 
